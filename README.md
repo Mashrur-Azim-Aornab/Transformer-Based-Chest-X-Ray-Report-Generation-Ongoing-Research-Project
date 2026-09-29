@@ -43,7 +43,7 @@ The current implementation uses a custom CNN-based patch/visual embedding module
 
 ## Dataset
 
-The project uses the **Indiana University Chest X-ray dataset** available through Kaggle.
+The project uses the [**Indiana University Chest X-ray dataset**](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university), available through Kaggle.
 
 The dataset contains chest X-ray images together with associated radiology report information. For this project, the **`findings`** field is used as the natural-language generation target.
 
